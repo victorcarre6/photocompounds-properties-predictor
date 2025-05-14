@@ -1,2 +1,3 @@
-# photocatalysts-properties-predictor
-A platform for predicting the efficiency and stability of new photocatalysts, using quantum chemical calculations and machine learning.
+# Photocompounds Properties Predictor
+
+A project aiming to predict the properties, stability, and efficiency of photocompounds, using a homemade dataset.
